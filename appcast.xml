@@ -3,6 +3,15 @@
     <channel>
         <title>AMD Contable</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 23 Oct 2026 13:18:56 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Villamil21/amd-contable-updates/main/AMD-Contable-0.1.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Villamil21/amd-contable-updates/releases/download/v0.1.2/AMD-Contable-0.1.2.zip" length="4725746" type="application/octet-stream" sparkle:edSignature="JlWAk5fmkqvV4zxXetlLRe14gIt9ln1KTGSV/UXaX7lf6kHGU44u3BhmYqnbpStZj+EUwCzfI1xqkxJtqqWsCQ=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Thu, 22 Oct 2026 23:24:49 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -10,9 +19,6 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Villamil21/amd-contable-updates/main/AMD-Contable-0.1.1.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/Villamil21/amd-contable-updates/releases/download/v0.1.1/AMD-Contable-0.1.1.zip" length="4724127" type="application/octet-stream" sparkle:edSignature="h9JXCHpQMBXt3iZ9U8xBp0HZyflSRzcbO3vYUO9GcPwJ/wSMQ/m0AJLqhruWDmPz+8lWLQT06Nfy3Dl3OdskAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Villamil21/amd-contable-updates/releases/download/v0.1.1/AMD%20Contable2-1.delta" sparkle:deltaFrom="1" length="150274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kjOQmXeQO9ydpxPdhou9VzS70kLdVLBpFsutl0kSus248EAXkpXVCMUOBEqvGmXC1BwO/fbkkNz9OZD32gmSDw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.0</title>
@@ -21,7 +27,7 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Villamil21/amd-contable-updates/main/AMD-Contable-0.1.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Villamil21/amd-contable-updates/releases/download/v0.1.1/AMD-Contable-0.1.0.zip" length="4724316" type="application/octet-stream" sparkle:edSignature="tL5LFfuHTSUPuXQV2qRIgeEc4mRY21WX91m5jip0wuxIb3rLaurX6qumfRud45z8aryjhoek4EiRwpIK6kyaDg=="/>
+            <enclosure url="https://github.com/Villamil21/amd-contable-updates/releases/download/v0.1.0/AMD-Contable-0.1.0.zip" length="4724316" type="application/octet-stream" sparkle:edSignature="tL5LFfuHTSUPuXQV2qRIgeEc4mRY21WX91m5jip0wuxIb3rLaurX6qumfRud45z8aryjhoek4EiRwpIK6kyaDg=="/>
         </item>
     </channel>
 </rss>
