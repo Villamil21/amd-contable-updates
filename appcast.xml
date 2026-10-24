@@ -3,6 +3,15 @@
     <channel>
         <title>AMD Contable</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Sat, 24 Oct 2026 14:56:25 -0500</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/Villamil21/amd-contable-updates/main/AMD-Contable-0.1.6.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Villamil21/amd-contable-updates/releases/download/v0.1.6/AMD-Contable-0.1.6.zip" length="5174995" type="application/octet-stream" sparkle:edSignature="I9byK7RfcKEWRLSIKMDPta7vb5eBm+6pl8Ws/5i+Z58WeRzxYRcbI4xLvSVPIzNQdPhi4M893Yrd8mLI8YuJAA=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Sat, 24 Oct 2026 00:31:09 -0500</pubDate>
             <sparkle:version>6</sparkle:version>
